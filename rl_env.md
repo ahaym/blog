@@ -1,5 +1,6 @@
 # Verifiable RL Environments Are Going to Zero  
 *(Eventually)*  
+Aug 5 2025
 
 ## The Story of Proof-Based Mathematics for LLMs  
 
